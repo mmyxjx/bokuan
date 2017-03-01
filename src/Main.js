@@ -1,5 +1,5 @@
 import React from 'react'
-import MenuLeft from './components/MemuLeft';
+import MenuLeft from './components/MenuLeft';
 import {Router, Route, hashHistory, IndexRoute, Redirect, IndexLink} from 'react-router'
 
 
