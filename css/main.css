@@ -1,0 +1,23 @@
+.d-left-side {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 10vw;
+    height: 100vh;
+    color: #fff;
+    background-color: #349697;
+    
+}
+
+.d-right-side {
+    position: relative;
+    top: 0;
+    left: 10vw;
+
+}
+.d-main-menu {
+    list-style: none;
+}
+.d-main-menu li a{
+    text-decoration: none;
+}
